@@ -22,3 +22,5 @@ This repository contains my practical learning journey in Java backend developme
 - Practise Git workflows and collaboration.
 - Automate builds and tests using CI/CD.
 - Deploy applications to AWS.
+## Progress
+- Git and GitHub setup completed.
